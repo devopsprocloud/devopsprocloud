@@ -63,7 +63,7 @@ DevOps & Cloud Engineer with **4+ years of experience** specializing in AWS clou
 ### ⚙️ Skills
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Docker+%7C+Jenkins+%7C+Ansible;Terraform+%7C+Kubernetes+%7C+AWS" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=Docker+%7C+Jenkins+%7C+Ansible;Terraform+%7C+Kubernetes+%7C+AWS" />
 </p>
 
 <p align="center">
